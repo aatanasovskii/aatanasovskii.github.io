@@ -4695,3 +4695,11 @@ input, select, textarea {
 	margin-top: 0px;
 	border-radius: 5px;
 }
+
+.netflix_clone_p {
+	text-align: center;
+}
+
+.icons button {
+	background-color: #eeeeee;
+}
